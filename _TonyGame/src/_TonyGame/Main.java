@@ -4,9 +4,9 @@
 	
 	public class Main {
 		public static void main(String[] args) {
-			//This will be my attempt at a short game. It will be console driven.
+//This is a short game. It it is console driven.
 			
-			//Here, I initialize all the variables I will be using in this program.
+//Here, I initialize all the variables I will be using in this program.
 			
 			Scanner scanner = new Scanner(System.in);
 			Random random = new Random();
